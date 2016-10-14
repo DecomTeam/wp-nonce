@@ -1,4 +1,4 @@
-# Decom WPNonce
+# Decom WPNonce [![Build Status](https://travis-ci.org/DecomTeam/wp-nonce.svg?branch=master)](https://travis-ci.org/DecomTeam/wp-nonce)
 
 Simple WordPress Nonce object.
 
